@@ -1,6 +1,6 @@
 # VirtualAssitants
 
-Some Version of Python will be Eror while Downloading PyAudio Package.
+Some Version of Python will be Eror while installing PyAudio library.
 If You Get Eror while Installing PyAudio you can use PipWin to Install PyAudio 
 
 
