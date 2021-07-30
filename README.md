@@ -1,1 +1,9 @@
 # VirtualAssitants
+
+Some Version of Python will be Eror while Downloading PyAudio Package.
+If You Get Eror while Installing PyAudio you can use PipWin to Install PyAudio 
+
+
+Make Sure you Have Stable Internet Connection to Run This Code.
+
+Made with Love by Djordan Djoe
